@@ -3,9 +3,19 @@
 - users
 - scores
 
+# objective
+
+・ゲームのAPIサーバを想定
+・ランキングとして使うスコアを登録する
+・ランキングを表示するためのデータを取得する
+・ランキングに保存するデータ
+ユーザ名
+スコア(整数値)
+達成日時
+
 # specification
 
-- Django REST Framework API
+python, Django REST Framework, Mysql, Docker
 
 # Usage
 
